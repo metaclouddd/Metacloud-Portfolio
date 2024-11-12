@@ -16,16 +16,9 @@ const Projects = () => {
           title="Velocity Executor"
           description="Velocity Executor"
         />
-        <ProjectCard
-          src="/CardImage.png"
-          title="Velocity Executor"
-          description=""
-        />
-        <ProjectCard
-          src="/SpaceWebsite.png"
-          title="Velocity Executor"
-          description=""
-        />
+      
+      
+        
       </div>
     </div>
   );
