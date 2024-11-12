@@ -14,16 +14,16 @@ const Projects = () => {
         <ProjectCard
           src="/NextWebsite.png"
           title="Velocity Executor"
-          description="Velocity - Seamless and Secure Roblox Experience"
+          description="Velocity Executor"
         />
         <ProjectCard
           src="/CardImage.png"
-          title="Interactive Website Cards"
+          title="Velocity Executor"
           description=""
         />
         <ProjectCard
           src="/SpaceWebsite.png"
-          title="Space Themed Website"
+          title="Velocity Executor"
           description=""
         />
       </div>
